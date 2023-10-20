@@ -6,9 +6,7 @@
 [Pre-requisites](#pre-requisites)<br>
 [Installation](#installation)<br>
 [Running the project](#running-the-project)<br>
-[Unit testing](#unit-testing)<br>
 [Known issues](#known-issues)<br>
-[Notes](#notes)
 
 <br>
 
